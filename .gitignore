@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Bash/shell scripts
+*.sh
+
+# Virtual environments
+my_env/
+
 # Distribution / packaging
 .Python
 build/
